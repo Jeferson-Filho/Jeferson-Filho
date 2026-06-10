@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jeferson, a junior web developer at Postali and a bachelor's student in Computer Science.
+I'm Jeferson, a junior web developer and a bachelor's student in Computer Science.
 At the moment, I'm focusing my studies on artificial intelligence and data science, improving my analytical skills and doing what excites me.
 
 Feel free to browse through my personal projects or contact me.
